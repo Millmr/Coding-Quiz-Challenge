@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(95, 95, 146);
+    color: white;
+}
+
+.navbar {
+    padding: 10px;
+    margin: 15px;
+}
+
+.container {
+    text-align: center;
+    border-style: outset;
+    border-radius: 15px;
+    border-color: rgb(182, 241, 63);
+}
+
+#highScores {
+    color: rgb(182, 241, 63);
+    padding: 10px;
+    margin: 15px;
+    border-color: rgb(182, 241, 63);
+}
+
+#countDown {
+    color: rgb(182, 241, 63);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#codQuiz {
+    font-size: 75px;
+}
+
+.btnPrimary {
+    padding: 10px;
+    margin: 15px;
+    background-color: rgb(182, 241, 63);
+    color: rgb(95, 95, 146);
+}
